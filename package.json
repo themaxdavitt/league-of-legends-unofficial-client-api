@@ -1,6 +1,6 @@
 {
   "name": "@themaxdavitt/league-of-legends-unofficial-client-api",
-  "version": "0.2021.49",
+  "version": "0.2021.75",
   "description": "Auto-generated axios-powered League of Legends Unofficial Client API (LCU) client",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
